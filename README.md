@@ -26,7 +26,4 @@ This project was created for learning and practice purposes and is uploaded as-i
 - Code is not fully optimized
 - Project is for practice and learning
 
----
 
-## 👤 Author
-Abd Al Rahman Ghanayem
